@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Oyatillo-tech
-- 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning javaskript
+- 👀 I’m Fullstack developer
+- 🌱 I’m currently learning React and Node.js and did about 12 fullstack projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ⚡ Fun fact: I love droving
